@@ -4,7 +4,7 @@
   "type": "pimcore-bundle",
   "require": {
     "pimcore/pimcore": "^6.3.3",
-    "nelmio/alice": "2.2.*",
+    "nelmio/alice": "^3.5",
     "fzaninotto/faker": "1.6.*"
   },
   "license": "MIT",
